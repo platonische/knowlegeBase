@@ -1,0 +1,1 @@
+How to add attribute for product
